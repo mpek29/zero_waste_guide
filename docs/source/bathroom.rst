@@ -72,6 +72,9 @@ I present to you a toilet brush made in France, which is called "bbb La Brosse".
 It is eco-designed and very hygienic, as its shape, inspired by tree leaves, prevents dirt from clinging.
 WARNING: I have no stock market shares in this company.
 
+.. image:: ../images/bbb-la-brosse.jpg
+    :target: ../latest/_images/bbb-la-brosse.jpg
+
 Cotton swabs
 ----------------
 A good solution to stop using cotton swabs and protect yourself from potential earplugs.
