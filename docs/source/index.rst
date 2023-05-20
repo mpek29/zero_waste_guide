@@ -1,5 +1,4 @@
 Welcome to the Zero Waste Guide!!
-
 ===================================
 
 Here, you can discover a transition proposal to zero waste that will allow you to save money.
