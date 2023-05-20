@@ -4,6 +4,7 @@ Bathroom
 Toothbrush
 ----------------
 A really simple good first step for me can be switch from a classical toothbrush in end of life to an interchangeable head toothbrush.
+
 .. image:: ../images/interchangeable_head_toothbrush.jpg
     :target: ../images/interchangeable_head_toothbrush.jpg
 
@@ -48,16 +49,19 @@ A metal safety razor, you need to change his blade but it's a really good soluti
 Hairbrush / Comb
 ----------------
 As you have seen before, objects with an interchangeable part are a good way to reduce waste.
+
 .. image:: ../images/interchangeable_hairbrush.jpg
     :target: ../images/interchangeable_hairbrush.jpg
 
 But the best way is still to use a wooden comb that can be used for a century without any problem.
+
 .. image:: ../images/wooden-comb.jpg
     :target: ../images/wooden-comb.jpg
 
 Toilet paper
 ----------------
 You can find many tutorials on the web for making your own washable toilet paper. Personally, I'm not sure if this is my priority, but do as you wish.
+
 .. image:: ../images/washable-toilet-paper.jpg
     :target: ../images/washable-toilet-paper.jpg
 
@@ -71,6 +75,7 @@ WARNING: I have no stock market shares in this company.
 Cotton swabs
 ----------------
 A good solution to stop using cotton swabs and protect yourself from potential earplugs.
+
 .. image:: ../images/earpick-cotton-swab-reusable.jpg
     :target: ../images/earpick-cotton-swab-reusable.jpg
 
