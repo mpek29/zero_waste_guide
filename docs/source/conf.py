@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Zero Waste Guide'
+copyright = '2023, PASCO Florian '
+author = 'PASCO Florian '
 
 release = '0.1'
 version = '0.1.0'

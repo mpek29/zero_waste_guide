@@ -1,22 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to the Zero Waste Guide!!
+
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Here, you can discover a transition proposal to zero waste that will allow you to save money.
+This is a little guide that I have create during my transition for help others and me to do it
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+When I was student my attract level to the zero waste don't stop to increase but when I went to some website site I just discovered some tricks but not a real way that was traced to help me and it's to patch it that I have create this guide.
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+I wish you a great reading and good luck for your transition!
