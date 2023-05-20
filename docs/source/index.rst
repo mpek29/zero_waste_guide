@@ -11,3 +11,10 @@ I wish you a great reading and good luck for your transition!
 .. toctree::
 
    bathroom
+   digital_devices
+   footwear_clothing
+   garden
+   housekeeping
+   kitchen
+   office
+   pet
