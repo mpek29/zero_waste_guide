@@ -8,3 +8,7 @@ This is a little guide that I have create during my transition for help others a
 When I was student my attract level to the zero waste don't stop to increase but when I went to some website site I just discovered some tricks but not a real way that was traced to help me and it's to patch it that I have create this guide.
 
 I wish you a great reading and good luck for your transition!
+
+.. toctree::
+
+   bathroom
