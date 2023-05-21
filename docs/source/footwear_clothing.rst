@@ -1,2 +1,0 @@
-Footwear and clothing
-=====
