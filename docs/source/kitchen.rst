@@ -46,8 +46,8 @@ Paper Towels
 ----------------
 Yes, there is, you can create a DIY Unpaper Towels for replace your paper Towels.
 
-.. image:: ../images/tawashi.jpg
-    :target: ../latest/_images/tawashi.jpg
+.. image:: ../images/DIY_Unpaper_Towels.jpg
+    :target: ../latest/_images/DIY_Unpaper_Towels.jpg
 
 Salt/pepper grinder
 ----------------
