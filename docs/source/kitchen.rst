@@ -67,3 +67,6 @@ A very simple problem to solve, buy your tea in bulk and use, stainless steel an
 Dish brushes
 ----------------
 And to finish with the kitchen, the ultimate step is switch from a classical dish brushes in end of life to an interchangeable head dish brushes.
+
+.. image:: ../images/interchangeable_head_dish_brushes.jpg
+    :target: ../latest/_images/interchangeable_head_dish_brushes.jpg
